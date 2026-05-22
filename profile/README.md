@@ -2,4 +2,4 @@
 
 ## Projects
 
-- [akron-discord](https://github.com/Microck/akron-discord) — Discord bot for Akron
+- [akron-discord](https://github.com/Microck/akron-discord) | Discord bot for Akron
